@@ -3,9 +3,9 @@ import javax.swing.JOptionPane;
 import clases.CitaMedica;
 import clases.ModeloDatos;
 import clases.Paciente;
-import clases_empleado.EmpleadoEventual;
-import clases_empleado.EmpleadoPlantilla;
-import clases_empleado.Medico;
+import clases.empleado.EmpleadoEventual;
+import clases.empleado.EmpleadoPlantilla;
+import clases.empleado.Medico;
 
 public class Procesos {
 
